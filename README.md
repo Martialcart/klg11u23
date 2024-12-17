@@ -5,3 +5,4 @@
 lurt å bruke seg selv som kilde
 
 skrive en md fil som inneholder hva man har lyst til å gjøre
+    slipper hå holde styr på flere ting
